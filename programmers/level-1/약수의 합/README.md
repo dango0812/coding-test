@@ -36,3 +36,6 @@ function solution(n) {
     return ret;
 }
 ```
+
+### URL
+https://school.programmers.co.kr/learn/courses/30/lessons/12928?language=javascript
